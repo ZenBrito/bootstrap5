@@ -10,20 +10,19 @@ h1 {
     border: 1px solid #8B008B;
     margin-top: 20px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.363);
+    padding: 10px;
 }
 
 .impar {
     background-color: deeppink;
     height: 50px;
     border: 1px solid #800000;
-    margin-bottom: 10px;
 }
 
 .par {
     background-color: goldenrod;
     height: 50px;
     border: 1px solid #800000;
-    margin-bottom: 10px;
 }
 
 
